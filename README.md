@@ -20,10 +20,6 @@ Desenvolvimento de um jogo de adivinhação com uso de reconhecimento de voz. O 
 - Criação de estilo CSS responsivo;
 - Manipulação de eventos, dados e elementos com JavaScript;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/numero-secreto-reconhecimento-voz/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
